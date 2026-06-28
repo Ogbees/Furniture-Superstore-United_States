@@ -45,9 +45,9 @@ To maximize spreadsheet performance and ensure reliable analytics, the raw data 
 Establish a stricter inspection rule for returning furniture items to lower the high return costs tied to the Bookcase category.
 
 ### 4. Optimize Standard Shipping to Improve Customer Retention
-* ****Strategy:** Streamline the transit times of the high-volume "Standard Class" shipping mode to save corporate retention numbers without spikes in budget overhead.
-* **Actions:** * Use the engineered `Duration` metric to identify slow transit routes and switch regional logistics partners for those lanes.
-  * Establish a regional stocking system to pre-stage high-demand products closer to major hubs like New York City and Los Angeles, shaving 1–2 days off standard deliveries.
+* **Strategy:** Streamline the transit times of the high-volume "Standard Class" shipping mode to save corporate retention numbers without spikes in budget overhead.
+* **Actions:**  Use the engineered `Duration` metric to identify slow transit routes and switch regional logistics partners for those lanes.
+Establish a regional stocking system to pre-stage high-demand products closer to major hubs like New York City and Los Angeles, shaving 1–2 days off standard deliveries.
  
 # Interractive Dashbord
 please cick the link titled "US_Furniture_Superstore.png" to view the dashboard
