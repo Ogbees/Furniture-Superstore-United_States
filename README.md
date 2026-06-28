@@ -1,4 +1,4 @@
-# United Stated Furniture Superstore Analysis
+# United States Furniture Superstore Analysis
 
 
 ##  Overview
@@ -47,7 +47,7 @@ Establish a stricter inspection rule for returning furniture items to lower the 
 ### 4. Optimize Standard Shipping to Improve Customer Retention
 * **Strategy:** Streamline the transit times of the high-volume "Standard Class" shipping mode to save corporate retention numbers without spikes in budget overhead.
 * **Actions:**  Use the engineered `Duration` metric to identify slow transit routes and switch regional logistics partners for those lanes.
-Establish a regional stocking system to pre-stage high-demand products closer to major hubs like New York City and Los Angeles, shaving 1–2 days off standard deliveries.
+ Establish a regional stocking system to pre-stage high-demand products closer to major hubs like New York City and Los Angeles, shaving 1–2 days off standard deliveries.
  
 # Interractive Dashbord
 please cick the link titled "US_Furniture_Superstore.png" to view the dashboard
