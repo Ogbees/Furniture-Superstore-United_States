@@ -31,18 +31,18 @@ To maximize spreadsheet performance and ensure reliable analytics, the raw data 
 
 ### 1. Protect Margins During Seasonal Surges
 * **Strategy:** Shift from flat-rate store-wide discounts to targeted, high-margin bundling to stop seasonal revenue from wiping out profits.
-* **Actions:** * Replace store-wide "20% off all furniture" winter campaigns with a dynamic "Buy a Desk, Get 15% Off a Chair" bundle.
-  * Cap maximum automated discounts during November/December at 15% for lower-performing sub-categories like Tables.
+* **Actions:**  Replace store-wide "20% off all furniture" winter campaigns with a dynamic "Buy a Desk, Get 15% Off a Chair" bundle.
+ Cap maximum automated discounts during November/December at 15% for lower-performing sub-categories like Tables.
 
 ### 2. Restructure Pricing in High-Volume, Loss-Making Regions
 * **Strategy:** Offset local freight costs and over-discounting in deficit states (e.g., Texas, Ohio) by localizing the pricing model.
-* **Actions:** * Create a localized regional shipping surcharge in the pricing matrix to pass heavy freight costs onto bulky furniture orders in those specific states.
-  * Restrict local sales reps in underperforming zones from matching the aggressive discount tiers used in highly profitable hubs like New York.
+* **Actions:**  Create a localized regional shipping surcharge in the pricing matrix to pass heavy freight costs onto bulky furniture orders in those specific states.
+ Restrict local sales reps in underperforming zones from matching the aggressive discount tiers used in highly profitable hubs like New York.
 
 ### 3. Optimize Low-Margin Product Portfolios
 * **Strategy:** Minimize warehouse and logistical overhead on bulky, low-margin products like Tables and Bookcases while scaling high-margin assets.
-* **Actions:** * Re-allocate 15% of the digital marketing layout away from Tables/Bookcases and move it toward highly profitable lines like Chairs and Furnishings.
-  * Establish a stricter inspection rule for returning furniture items to lower the high return costs tied to the Bookcase category.
+* **Actions:**  Re-allocate 15% of the digital marketing layout away from Tables/Bookcases and move it toward highly profitable lines like Chairs and Furnishings.
+Establish a stricter inspection rule for returning furniture items to lower the high return costs tied to the Bookcase category.
 
 ### 4. Optimize Standard Shipping to Improve Customer Retention
 * ****Strategy:** Streamline the transit times of the high-volume "Standard Class" shipping mode to save corporate retention numbers without spikes in budget overhead.
