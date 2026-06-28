@@ -50,4 +50,4 @@ Establish a stricter inspection rule for returning furniture items to lower the 
  Establish a regional stocking system to pre-stage high-demand products closer to major hubs like New York City and Los Angeles, shaving 1–2 days off standard deliveries.
  
 # Interractive Dashbord
-please cick the link titled "US_Furniture_Superstore.png" to view the dashboard
+please click the link titled "US_Furniture_Superstore.png" to view the dashboard
